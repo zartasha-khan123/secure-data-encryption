@@ -3,12 +3,13 @@ name = "secure-data-encryption"
 version = "0.1.0"
 description = "Secure Data Encryption using Fernet"
 readme = "README.md"
-requires-python = ">=3.8"  # Recommended to use >=3.8 instead of >=3.11 for better compatibility
+requires-python = ">=3.10"
+  # Recommended to use >=3.8 instead of >=3.11 for better compatibility
 
 dependencies = [
-    "cryptography>=44.0.2",    # Cryptography library for encryption/decryption
-    "ruff>=0.11.4",            # Code linting tool (optional, if you're using it)
-    "streamlit>=1.44.1",       # Streamlit for the app interface
-    "pandas>=2.2.3",           # If you're using pandas for data processing (example)
-    "numpy>=2.2.5",            # If you're using numpy for numerical operations (example)
+    "cryptography>=44.0.2", # Cryptography library for encryption/decryption
+    "ruff>=0.11.4", # Code linting tool (optional, if you're using it)
+    "streamlit>=1.44.1", # Streamlit for the app interface
+    "pandas>=2.2.3", # If you're using pandas for data processing (example)
+    "numpy>=2.2.5", # If you're using numpy for numerical operations (example)
 ]

@@ -26,5 +26,9 @@
     "sara khan": {
         "encrypted_text": "gAAAAABoCg1dd917OB8D9PEB7GhSzIzbicgnbnfoFW7wJEoVDX8cSSh3SPpKwmzWNgZPOd91WWTfDM7O0BdHhpEzKnLqoxIvnkTozeLZ3NevKAHNULRkrSU=",
         "passkey": "a0b4aaab8a966e2193ba172d68162c4656860197f256b5f45f0203397ff3f99c"
+    },
+    "subhan": {
+        "encrypted_text": "gAAAAABoCpiqZ32u4E0kOmbzko__FU2efKXb50X6MsRCDX4x3Xu3Nkp2fAAq0E5Cz2zJ9md8DGsdn_1IgmyRDNEfUnPuCUOU0g==",
+        "passkey": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5"
     }
 }
